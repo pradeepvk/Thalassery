@@ -1,0 +1,6 @@
+permissive
+failfast
+dropmalformed
+
+---
+   badRecordsPath
